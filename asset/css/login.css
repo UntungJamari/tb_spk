@@ -162,16 +162,16 @@ select {
 }
 
 .btn-green {
-  background-color: #1aab4c;
+  background-color: #0202cc;
   color: white !important;
 }
 
 .btn-green:hover {
-  background-color: #1AB14B;
+  background-color: #010191;
 }
 
 .btn-light-green {
-  background-color: #76bd47;
+  background-color: #010191;
   color: white !important;
 }
 

@@ -1,6 +1,6 @@
 <div class="panel">
     <div class="panel-middle" id="judul">
-        <img src="asset/image/supplier.svg">
+        <img src="asset/image/supplier2.svg">
         <div id="judul-text">
             <h2 class="text-green">Supplier</h2>
         </div>

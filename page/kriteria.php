@@ -1,7 +1,7 @@
 <!-- judul -->
 <div class="panel">
     <div class="panel-middle" id="judul">
-        <img src="asset/image/kriteria.svg">
+        <img src="asset/image/kriteria2.svg">
         <div id="judul-text">
             <h2 class="text-green">KRITERIA</h2>
         </div>

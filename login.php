@@ -26,7 +26,7 @@
             <button class="btn btn-green btn-full"><i class="fa fa-arrow-alt-circle-right text-white"></i> Login</button>
         </form>
     </div>
-    <img src="asset/image/top-image.png" id="hiasan" style="width: 300px;"><br>
+    <img src="asset/image/top-image.png" id="hiasan" style="width: 200px;"><br>
 </body>
 <script src="asset/js/jquery.js" type="text/javascript"></script>
 <script src="asset/js/main.js" type="text/javascript"></script>
